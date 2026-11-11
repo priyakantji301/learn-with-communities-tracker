@@ -107,4 +107,4 @@ The Learn With Communities Tracker aims to reduce manual verification efforts, c
 
 ---
 
-**Built for the Learn With Communities Campaign | GDG on Campus**
+**Built for the Learn With Communities Campaign by Priyanshi Parmar | GDG on Campus**
